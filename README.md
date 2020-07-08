@@ -1,7 +1,7 @@
 # matplotlib-challenge
 ## Matplotlib Homework - The Power of Plots
 ### Pymaceuticals
-1. pymaceuticals.ipynb
+1. Pymaceuticals.ipynb
 2. Data - Mouse_metadata.csv, Study_results.csv
 
 ---
