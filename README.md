@@ -8,7 +8,7 @@ This project utilizes Python Matplotlib to generate tables and figures from an a
 ![Summary_Stats](https://github.com/Jiuhe2020/matplotlib-challenge/blob/master/images/Summary_Table.png)
 - Generate a bar plot using both Pandas's `DataFrame.plot()` and Matplotlib's `pyplot` that shows the number of total data points for each treatment regimen throughout the course of the study \
 ![Total_Data_Points](https://github.com/Jiuhe2020/matplotlib-challenge/blob/master/images/Total_Data_Points.png)
-- Generate a pie plot using both Pandas's `DataFrame.plot()` and Matplotlib's `pyplot` that shows the distribution of female or male mice in the study. \
+- Generate a pie plot using both Pandas's `DataFrame.plot()` and Matplotlib's `pyplot` that shows the distribution of female or male mice in the study \
 ![Distribution](https://github.com/Jiuhe2020/matplotlib-challenge/blob/master/images/Distribution.png)
 - Calculate the final tumor volume of each mouse across four of the most promising treatment regimens: Capomulin, Ramicane, Infubinol, and Ceftamin. Calculate the quartiles and IQR and quantitatively determine if there are any potential outliers across all four treatment regimens.
 - Using Matplotlib, generate a box and whisker plot of the final tumor volume for all four treatment regimens and highlight any potential outliers in the plot by changing their color and style. \
