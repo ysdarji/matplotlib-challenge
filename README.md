@@ -3,8 +3,8 @@
 This project utilizes Python Matplotlib to generate tables and figures from an animal study carried by Pymaceuticals Inc., in order to screen for potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer. In this study, 249 mice identified with SCC tumor growth were treated through a variety of drug regimens. Over the course of 45 days, tumor development was observed and measured. The purpose of this study was to compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatment regimens. In addition, a top-level summary of the study results was generated.
 
 ## Tasks
-- Check the data for any mouse ID with duplicate time points and remove any data associated with that mouse ID. Use the cleaned data for the remaining steps.
-- Generate a summary statistics table consisting of the mean, median, variance, standard deviation, and SEM of the tumor volume for each drug regimen. \
+- Check the data for any mouse ID with duplicate time points and remove any data associated with that mouse ID. Use the cleaned data for the remaining steps
+- Generate a summary statistics table consisting of the mean, median, variance, standard deviation, and SEM of the tumor volume for each drug regimen \
 ![Summary_Stats](https://github.com/Jiuhe2020/matplotlib-challenge/blob/master/images/Summary_Table.png)
 - Generate a bar plot using both Pandas's `DataFrame.plot()` and Matplotlib's `pyplot` that shows the number of total data points for each treatment regimen throughout the course of the study. \
 ![Total_Data_Points](https://github.com/Jiuhe2020/matplotlib-challenge/blob/master/images/Total_Data_Points.png)
