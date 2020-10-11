@@ -15,7 +15,7 @@ This project utilizes Python Matplotlib to generate tables and figures from an a
 ![Final_Tumor_Volume](https://github.com/Jiuhe2020/matplotlib-challenge/blob/master/images/Final_Tumor_Volume.png)
 - Select a mouse (g316) that was treated with Capomulin and generate a line plot of time point versus tumor volume for that mouse \
 ![Capomulin_g316](https://github.com/Jiuhe2020/matplotlib-challenge/blob/master/images/Capomulin_g316.png)
-- Generate a scatter plot of mouse weight versus average tumor volume for the Capomulin treatment regimen. \
+- Generate a scatter plot of mouse weight versus average tumor volume for the Capomulin treatment regimen \
 ![Weight_Tumor](https://github.com/Jiuhe2020/matplotlib-challenge/blob/master/images/Weight_Tumor.png)
 - Calculate the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment. Plot the linear regression model on top of the previous scatter plot. \
 ![Linear_Regression](https://github.com/Jiuhe2020/matplotlib-challenge/blob/master/images/Linear_Regression.png)
