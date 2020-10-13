@@ -6,7 +6,10 @@ This project utilizes Python Matplotlib to generate tables and figures from an a
 ## Tasks
 - Check the data for any mouse ID with duplicate time points and remove any data associated with that mouse ID. Use the cleaned data for the remaining steps
 - Generate a summary statistics table consisting of the mean, median, variance, standard deviation, and SEM of the tumor volume for each drug regimen \
-![Summary_Stats](https://github.com/Jiuhe2020/matplotlib-challenge/blob/master/images/Summary_Table.png)
+<p align="center">
+  <img src="https://github.com/Jiuhe2020/matplotlib-challenge/blob/master/images/Summary_Table.png" height="60" width="60%">
+</p>
+
 - Generate a bar plot using both Pandas's `DataFrame.plot()` and Matplotlib's `pyplot` that shows the number of total data points for each treatment regimen throughout the course of the study \
 ![Total_Data_Points](https://github.com/Jiuhe2020/matplotlib-challenge/blob/master/images/Total_Data_Points.png)
 - Generate a pie plot using both Pandas's `DataFrame.plot()` and Matplotlib's `pyplot` that shows the distribution of female or male mice in the study \
@@ -22,7 +25,7 @@ This project utilizes Python Matplotlib to generate tables and figures from an a
 ![Linear_Regression](https://github.com/Jiuhe2020/matplotlib-challenge/blob/master/images/Linear_Regression.png)
 - Include three observations or inferences based on previously generated figures and tables at the top of notebook
 
-## List of Files
+## List of Content
 1. Pymaceuticals.ipynb: a Jupyter Notebook containing the main script
 2. Mouse_metadata.csv: the resource of mouse information
 3. Study_results.csv: the resource of study results
