@@ -7,11 +7,14 @@ This project utilizes Python Matplotlib to generate tables and figures from an a
 - Check the data for any mouse ID with duplicate time points and remove any data associated with that mouse ID. Use the cleaned data for the remaining steps
 - Generate a summary statistics table consisting of the mean, median, variance, standard deviation, and SEM of the tumor volume for each drug regimen
 <p align="center">
-  <img src="https://github.com/Jiuhe2020/matplotlib-challenge/blob/master/images/Summary_Table.png" height="80%" width="80%">
+  <img src="https://github.com/Jiuhe2020/matplotlib-challenge/blob/master/images/Summary_Table.png" height="50%" width="50%">
 </p>
 
-- Generate a bar plot using both Pandas's `DataFrame.plot()` and Matplotlib's `pyplot` that shows the number of total data points for each treatment regimen throughout the course of the study \
-![Total_Data_Points](https://github.com/Jiuhe2020/matplotlib-challenge/blob/master/images/Total_Data_Points.png)
+- Generate a bar plot using both Pandas's `DataFrame.plot()` and Matplotlib's `pyplot` that shows the number of total data points for each treatment regimen throughout the course of the study
+<p align="center">
+  <img src="https://github.com/Jiuhe2020/matplotlib-challenge/blob/master/images/Total_Data_Points.png" height="50%" width="50%">
+</p>
+
 - Generate a pie plot using both Pandas's `DataFrame.plot()` and Matplotlib's `pyplot` that shows the distribution of female or male mice in the study \
 ![Distribution](https://github.com/Jiuhe2020/matplotlib-challenge/blob/master/images/Distribution.png)
 - Calculate the final tumor volume of each mouse across four of the most promising treatment regimens: Capomulin, Ramicane, Infubinol, and Ceftamin. Calculate the quartiles and IQR and quantitatively determine if there are any potential outliers across all four treatment regimens
