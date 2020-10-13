@@ -38,7 +38,7 @@ This project utilizes Python Matplotlib to generate tables and figures from an a
 
 - Calculate the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment. Plot the linear regression model on top of the previous scatter plot
 <p align="center">
-  <img src="https://github.com/Jiuhe2020/matplotlib-challenge/blob/master/images/Linear_Regression.png" height="50%" width="50%">
+  <img src="https://github.com/Jiuhe2020/matplotlib-challenge/blob/master/images/Linear_Regression.png" height="75%" width="75%">
 </p>
 
 - Include three observations or inferences based on previously generated figures and tables at the top of notebook
